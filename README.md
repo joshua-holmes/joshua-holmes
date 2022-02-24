@@ -17,7 +17,7 @@ The app that walks you through composing your very own music, even if you have n
 Uses machine learning to generate words that look like real words, but do not already exist in the dictionary.
 
 ## Skills
-<p>
+<p style="display:block">
   <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
