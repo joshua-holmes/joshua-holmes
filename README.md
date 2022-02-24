@@ -32,10 +32,6 @@ Uses machine learning to generate words that look like real words, but do not al
   <img width="100" height="0"/>
 </p>  
 
-
-<br/>  
-
-
 ## Get in Touch
 
 [<img src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>](https://www.linkedin.com/in/joshua-phillip-holmes/)
