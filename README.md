@@ -28,7 +28,7 @@ Uses machine learning to generate words that look like real words, but do not al
 <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
 <img src="https://icongr.am/devicon/python-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
 <img src="https://icongr.am/devicon/docker-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
-<img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/><br/>
+<img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/><br/><br/>
 
 
 ## Get in Touch
