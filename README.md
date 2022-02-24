@@ -17,20 +17,21 @@ The app that walks you through composing your very own music, even if you have n
 Uses machine learning to generate words that look like real words, but do not already exist in the dictionary.
 
 ## Skills
+<p>
+  <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/python-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/docker-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
+</p>
 
-<img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
-<img src="https://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
-<img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
-<img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" align="left" width="40" height="40"/>
-<img src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
-<img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
-<img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
-<img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
-<img src="https://icongr.am/devicon/python-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
-<img src="https://icongr.am/devicon/docker-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
-<img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
 
-<br/><br/>
 
 ## Get in Touch
 
