@@ -16,6 +16,10 @@ The app that walks you through composing your very own music, even if you have n
 
 Uses machine learning to generate words that look like real words, but do not already exist in the dictionary.
 
+**Dictionary Game** - [GitHub](https://github.com/joshua-holmes/dictionary-game) | [Demo](https://dictionary-game.jpholmes.com/)
+
+Based on the classic game of hangman, you must use the available letters to guess a hidden word. In Dictionary Game, a random word is selected from the dictionary, and you must use the dictionary definition to help you guess the word!
+
 ## Skills
 <p style="display:block">
   <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
@@ -26,9 +30,9 @@ Uses machine learning to generate words that look like real words, but do not al
   <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/python-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/docker-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/python-plain.svg?size=128&color=currentColor" alt="python" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/docker-plain.svg?size=128&color=currentColor" alt="docker" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" alt="linux" align="left" width="40" height="40"/>
   <img width="100" height="0"/>
 </p>
 
@@ -36,5 +40,6 @@ Uses machine learning to generate words that look like real words, but do not al
 
 ## Get in Touch
 
-[<img src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=currentColor" alt="aws" align="left" width="40" height="40"/>](https://www.linkedin.com/in/joshua-phillip-holmes/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="aws" align="left" width="40" height="40"/>](https://medium.com/@joshua.phillip.holmes)
+[<img src="https://icongr.am/devicon/linkedin-plain.svg?size=128&color=currentColor" alt="linkedin" align="left" width="40" height="40"/>](https://www.linkedin.com/in/joshua-phillip-holmes/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" align="left" width="40" height="40"/>](https://medium.com/@joshua.phillip.holmes)
+[<img src="https://icongr.am/clarity/world.svg?size=128&color=currentColor" alt="personal website" align="left" width="40" height="40"/>](https://www.jpholmes.com)
