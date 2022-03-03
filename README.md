@@ -25,12 +25,13 @@ Based on the classic game of hangman, you must use the available letters to gues
   <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="js" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=currentColor" alt="ruby" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="rails" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/python-plain.svg?size=128&color=currentColor" alt="python" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/django-plain.svg?size=128&color=currentColor" alt="node" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="postgres" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/docker-plain.svg?size=128&color=currentColor" alt="docker" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" alt="linux" align="left" width="40" height="40"/>
   <img width="100" height="0"/>
