@@ -16,7 +16,7 @@ The app that walks you through composing your very own music, even if you have n
 
 Uses machine learning to generate words that look like real words, but do not already exist in the dictionary.
 
-**Dictionary Game** - [GitHub](https://github.com/joshua-holmes/dictionary-game) | [Demo](https://dictionary-game.jpholmes.com/)
+**The Dictionary Game** - [Demo](https://dictionary-game.jpholmes.com/)
 
 Based on the classic game of hangman, you must use the available letters to guess a hidden word. In Dictionary Game, a random word is selected from the dictionary, and you must use the dictionary definition to help you guess the word!
 
