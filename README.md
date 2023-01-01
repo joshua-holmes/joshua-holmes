@@ -8,9 +8,9 @@ Creative and detail oriented with a passion for learning, I am always looking fo
 
 Based on the classic game of hangman, you must use the available letters to guess a hidden word. In Dictionary Game, a random word is selected from the dictionary, and you must use the dictionary definition to help you guess the word!
 
-**Unoffical BeamMP Installer** - [GitHub](https://github.com/joshua-holmes/beammp-installer)
+**Unoffical Linux BeamMP Installer** - [GitHub](https://github.com/joshua-holmes/beammp-installer)
 
-Welcome to the Unoffical BeamMP Installer! This program was created to make it easier for Linux users to install and run the BeamMP (BeamNG.drive multiplayer) mod on Linux devices, since the mod is currently only available for Windows.
+Welcome to the Unoffical Linux BeamMP Installer! This program automates the installation of the BeamNG multiplayer mod, BeamMP, on Linux using Proton, since the mod is natively available for Windows only.
 
 **Docker Ruby on Rails Template** - [GitHub](https://github.com/joshua-holmes/docker-template-ruby-on-rails)
 
