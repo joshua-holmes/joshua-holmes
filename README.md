@@ -4,17 +4,13 @@ Creative and detail oriented with a passion for learning, I am always looking fo
 
 ## Projects
 
-**Dictionary Game** - [GitHub](https://github.com/joshua-holmes/dictionary-game) | [Demo](https://dictionary-game.jpholmes.com/) | [Google Play Store](https://play.google.com/store/apps/details?id=com.jpholmes.dictionary_game.twa)
+**Docker Ruby on Rails Template** - [GitHub](https://github.com/joshua-holmes/docker-template-ruby-on-rails)
 
-Based on the classic game of hangman, you must use the available letters to guess a hidden word. In Dictionary Game, a random word is selected from the dictionary, and you must use the dictionary definition to help you guess the word!
+Serves as a template that will allow you to toss your Ruby on Rails (can optionally include React frontend) application into a folder, configure a few settings, then quickly have a Dockerized app with it's own contained environment!
 
 **Unoffical Linux BeamMP Installer** - [GitHub](https://github.com/joshua-holmes/beammp-installer)
 
 Welcome to the Unoffical Linux BeamMP Installer! This program automates the installation of the BeamNG multiplayer mod, BeamMP, on Linux using Proton, since the mod is natively available for Windows only.
-
-**Docker Ruby on Rails Template** - [GitHub](https://github.com/joshua-holmes/docker-template-ruby-on-rails)
-
-Serves as a template that will allow you to toss your Ruby on Rails (can optionally include React frontend) application into a folder, configure a few settings, then quickly have a Dockerized app with it's own contained environment!
 
 ## Skills
 <p style="display:block">
