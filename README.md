@@ -1,6 +1,8 @@
 # Hi I'm Josh! 👋
 
-Creative and detail oriented with a passion for learning, I am always looking for a challenge! Software Engineer by day and......Software Engineer by night! In my day job, I design and build APIs, database structures, and game logic for StatHero. Outside of work, I learn new technologies and create new experiences for myself. Recently, I have been exploring lower level programming. I learned C++ and Bash scripting and built my first Linux application! Check it out in my Projects section below!
+Hi, I'm Josh! I am a highly motivated Software Engineer focused on delivering scalable, reliable software. I am passionte about learning how things work "under the hood" and solving problems. Currently, I design, build, and deploy web-based APIs in a fast-paced, agile development environment. I have expertise in programming languages such as Rust, Python, and Node.js. I also have a solid understanding of business areas through working with internal stakeholders. I am a dedicated team player with technical depth and a drive to deliver exceptional end products for clients.
+
+Technologies I am particularly passionate about are Rust and Linux. Rust is newer to me, but I am using it extensively for it's memory safety features and high performance, while still delivering high-level programming capabilities. Linux has been with me for years due to it's high customizability. I have had hands on experience with nearly every component of the operating system, from the boot process to networking.
 
 ## Projects
 
@@ -14,9 +16,9 @@ Welcome to the Unoffical Linux BeamMP Installer! This program automates the inst
 
 ## Skills
 <p style="display:block">
-  <img src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=currentColor" alt="JavaScript" title="JavaScript" align="left" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="Node.js" title="Node.js" align="left" width="40" height="40"/>
+  <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="Rust" title="Rust" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/python-plain.svg?size=128&color=currentColor" alt="Python" title="Python" align="left" width="40" height="40"/>
+  <img src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor" alt="Node.js" title="Node.js" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/ruby-plain.svg?size=128&color=currentColor" alt="Ruby" title="Ruby" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/cplusplus-plain.svg?size=128&color=currentColor" alt="C++" title="C++" align="left" width="40" height="40"/>
   <img src="./images/icons8-bash.svg" alt="Bash" title="Bash" align="left" width="40" height="40"/>
@@ -24,9 +26,10 @@ Welcome to the Unoffical Linux BeamMP Installer! This program automates the inst
   <img src="./images/icons8-flask.svg" alt="Flask" title="Flask" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/rails-plain-wordmark.svg?size=128&color=currentColor" alt="Ruby on Rails" title="Ruby on Rails" align="left" width="40" height="40"/>
   <img src="./images/sql.svg" alt="SQL Database Design" title="SQL Database Design" align="left" width="40" height="40"/>
-  <img src="./images/sqlless.svg" alt="SQLless Database Design" title="SQLless Database Design" align="left" width="40" height="40"/>
+  <img src="./images/sqlless.svg" alt="NoSQL Database Design" title="NoSQL Database Design" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/postgresql-plain.svg?size=128&color=currentColor" alt="PostgreSQL" title="PostgreSQL" align="left" width="40" height="40"/>
   <img src="./images/icons8-firebase.svg" alt="Firebase" title="Firebase" align="left" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" align="left" width="40" height="40"/>
   <img src="./images/api.svg" alt="API development" title="API development" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=currentColor" alt="Linux" title="Linux" align="left" width="40" height="40"/>
   <img src="https://icongr.am/devicon/docker-plain.svg?size=128&color=currentColor" alt="Docker" title="Docker" align="left" width="40" height="40"/>
