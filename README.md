@@ -50,4 +50,5 @@ Welcome to the Unoffical Linux BeamMP Installer! This program automates the inst
 [<img src="./images/email.svg" alt="email" align="left" width="40" height="40"/>](mailto:joshua.phillip.holmes@gmail.com)
 
 <br/>
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/joshuaholmes)
