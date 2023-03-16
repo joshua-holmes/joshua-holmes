@@ -49,6 +49,3 @@ Welcome to the Unoffical Linux BeamMP Installer! This program automates the inst
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" align="left" width="40" height="40"/>](https://medium.com/@joshua.phillip.holmes)
 [<img src="./images/email.svg" alt="email" align="left" width="40" height="40"/>](mailto:joshua.phillip.holmes@gmail.com)
 
-<br/>
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/joshuaholmes)
