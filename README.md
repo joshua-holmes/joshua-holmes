@@ -17,7 +17,8 @@ Technologies I am particularly passionate about are Rust and Linux. Rust is newe
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon web services" width="40" height="40"/></a>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/></a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
@@ -32,9 +33,9 @@ Technologies I am particularly passionate about are Rust and Linux. Rust is newe
 
 ## Get in Touch
 <p align="left">
-    <a href="https://linkedin.com/in/joshua-phillip-holmes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-phillip-holmes" height="30" width="40" /></a>
-    <a href="https://www.jpholmes.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/503798/world.svg" alt="jpholmes.com" height="30" width="40" /></a>
-    <a href="mailto:joshua.phillip.holmes@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/444836/mail-full.svg" alt="joshua.phillip.holmes@gmail.com" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/joshua-phillip-holmes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-phillip-holmes" height="30" width="40" /></a>
+    <a href="https://www.jpholmes.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/503798/world.svg" alt="jpholmes.com" height="30" width="40" /></a>
+    <a href="mailto:joshua.phillip.holmes@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/444836/mail-full.svg" alt="joshua.phillip.holmes@gmail.com" height="30" width="40" /></a>
 </p>
 
 <br/>
