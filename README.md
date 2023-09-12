@@ -1,6 +1,6 @@
 # Hi I'm Josh! 👋
 
-Hi, I'm Josh! I am a highly motivated Software Engineer focused on delivering scalable, reliable software. I am passionate about learning how things work and solving problems. Currently, I design, build, and deploy APIs and microservices in an agile development environment. I have expertise in programming languages such as Python, JavaScript/TypeScript, Rust, and C. Additionally, I have a solid understanding of the GNU/Linux environment, including strong Bash scripting skills. I am a dedicated team player with technical depth and a drive to deliver exceptional end products for clients.
+I am a highly motivated Software Engineer focused on delivering scalable, reliable software. I am passionate about learning how things work and solving problems. Currently, I design, build, and deploy APIs and microservices in an agile development environment. I have expertise in programming languages such as Python, JavaScript/TypeScript, Rust, and C. Additionally, I have a solid understanding of the GNU/Linux environment, including strong Bash scripting skills. I am a dedicated team player with technical depth and a drive to deliver exceptional end products for clients.
 
 Particularly, I am passionate about memory management, performant code, and Linux. When I'm not building a useful software tool for the world, I enjoy practicing algorithmic problem-solving, customizing my Linux machine, and gaming.
 
