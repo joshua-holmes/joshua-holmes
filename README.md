@@ -1,8 +1,8 @@
 # Hi I'm Josh! 👋
 
-I am a highly motivated Software Engineer focused on delivering scalable, reliable software. I am passionate about learning how things work and solving problems. Currently, I design, build, and deploy APIs and microservices in an agile development environment. I have expertise in programming languages such as Python, JavaScript/TypeScript, Rust, and C. Additionally, I have a solid understanding of the GNU/Linux environment, including strong Bash scripting skills. I am a dedicated team player with technical depth and a drive to deliver exceptional end products for clients.
+I am a highly motivated Software Engineer focused on delivering scalable, reliable software. I am passionate about learning new things! Currently, I design, build, and deploy APIs and microservices at a mid-sized tech company in an agile development environment. I have expertise in programming languages such as Python, JavaScript/TypeScript, Rust, and C/C++. I also have a solid understanding of the GNU/Linux environment, including strong Bash scripting skills. I am a dedicated team player with technical depth and a drive to deliver exceptional end products for clients.
 
-Particularly, I am passionate about memory management, performant code, and Linux. When I'm not building a useful software tool for the world, I enjoy practicing algorithmic problem-solving, customizing my Linux machine, and gaming.
+Lately, I have started contributing to open source projects that I am passionate about. So far, this includes Godot (game engine), Firefox, and Rust-Embedded/Discovery. These are projects that I believe are useful to the world and want to see succeed, so I help them succeed by contributing code!
 
 ## Trophies
 <p align="left">
