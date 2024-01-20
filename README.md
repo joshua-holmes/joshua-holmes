@@ -1,8 +1,10 @@
 # Hi I'm Josh! 👋
 
-I am a highly motivated Software Engineer focused on delivering scalable, reliable software. I am passionate about learning new things! Currently, I design, build, and deploy APIs and microservices at a mid-sized tech company in an agile development environment. I have expertise in programming languages such as Python, JavaScript/TypeScript, Rust, and C/C++. I also have a solid understanding of the GNU/Linux environment, including strong Bash scripting skills. I am a dedicated team player with technical depth and a drive to deliver exceptional end products for clients.
+I am a highly motivated Software Engineer focused on delivering scalable, reliable software. I am passionate about learning new things! Currently, I design, build, and deploy APIs and microservices at a mid-sized tech company in an agile development environment. I have expertise in programming languages such as Rust, Python, and JavaScript/TypeScript. I also have a solid understanding of the GNU/Linux environment, including strong Bash scripting skills. I am a dedicated team player with technical depth and a drive to deliver exceptional end products for clients.
 
-Lately, I have started contributing to open source projects that I am passionate about. So far, this includes Godot (game engine), rs-probe, and Servo. These are projects that I believe are useful to the world and want to see succeed, so I help them succeed by contributing code!
+I am currently in the early stages of designing and building a video game, along with my own game engine, entirely in Rust. The game is rendered using a Vulkan API wrapper for Rust called Vulkano. The direction of the game is still unknown, but I am leaning toward an online multiplayer particle-based physics sandbox.
+
+I have also contributing to a number of FOSS (free open source software) projects in Rust. This includes Servo, a browser engine, and rs-probe for embedded systems projects.
 
 ## Trophies
 <p align="left">
@@ -11,13 +13,13 @@ Lately, I have started contributing to open source projects that I am passionate
 
 ## Skills
 <p align="left">
+    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" height="40" width="40" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" height="40" width="40" /></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" height="40" width="40" /></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="c++" height="40" width="40" /></a>
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
