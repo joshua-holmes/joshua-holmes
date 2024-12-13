@@ -1,41 +1,38 @@
 # Hi I'm Josh! 👋
 
-I am a highly motivated Software Engineer focused on delivering scalable that's built to last. I am persistent when faced with challenges and always open to learning new tech. Currently, I design, build, and deploy containerized APIs and microservices at a mid-sized tech company in an agile development environment using Python. I also have a strong understanding of the GNU/Linux environment and develop lower level applications using Rust. I am a dedicated team player with technical depth and a drive to deliver exceptional end products for clients.
+A passionate software developer, focused on delivering innovative, performant software that's a joy to use for customers, whether that's another developer or an end user. As an engineer that is always learning new technologies, I have become a versatile programmer that can learn new technologies quickly and can make educated decisions based on first-hand experience. While I have programmed in a variety of domains, I tend to focus on backend web development and systems/application development.
 
-Lately, I have been developing my own video game and game engine from scratch, built entirely in Rust. The game engine is built on top of the Vulkan API for rendering and will be a 2D physics-based fighting game.
-
-I have also contributed to a few FOSS (free open source software) projects in Rust. This includes Servo, a browser engine, and rs-probe for embedded systems projects.
+The projects I currently work on are:
+* Corteva | Web-based agriculture technologies that combine weather data, satellite imagery, machine learning, and more to provide insights to farmers about their fields - insights like predicted crop yield, year-over-year precipitation and [GDU](https://cropwatch.unl.edu/growing-degree-units-and-corn-emergence) comparisons, etc.
+* Mach | Modern open-source game engine written in Zig that is pushing [ECS](https://en.wikipedia.org/wiki/Entity_component_system) technology forward with the new [Mach Object System](https://machengine.org/docs/object/). I have primarily worked on native support with Linux display servers X11 and Wayland.
+* Unrevealed game | Turn-based, deck-building wizard game with real-time in-combat movement.
 
 ## Trophies
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshua-holmes" alt="joshua-holmes" /></a>
 </p>
 
-## Skills
-<p align="left">
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
+## Technologies
+<div align="left">
+    <a href="https://ziglang.org/" target="_blank" rel="noreferrer"> <img style="background-color: #ccc;" src="./images/zig.svg" alt="zig" width="40" height="40"/></a>
+    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img style="background-color: #ccc;" src="./images/rust.svg" alt="rust" width="40" height="40"/></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img style="background-color: #ccc;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" height="40" width="40" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" height="40" width="40" /></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="c" height="40" width="40" /></a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="c++" height="40" width="40" /></a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img style="background-color: #ccc;" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon web services" width="40" height="40"/></a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/></a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img style="background-color: #ccc;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-    <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-</p>
+</div>
 
 ## Get in Touch
 <p align="left">
