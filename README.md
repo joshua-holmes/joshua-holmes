@@ -1,6 +1,6 @@
 # Hi I'm Josh! 👋
 
-A passionate software developer, focused on delivering innovative, performant software that's a joy to use for customers, whether that's another developer or an end user. As an engineer that is always learning new technologies, I have become a versatile programmer that can learn new technologies quickly and can make educated decisions based on first-hand experience. While I have programmed in a variety of domains, I tend to focus on backend web development and systems/application development.
+A passionate software developer, interested in delivering innovative, performant software that's a joy to use for customers, whether that's another developer or an end user. As an engineer that is always learning new technologies, I have become a versatile programmer that learns new technologies quickly and makes educated decisions based on first-hand experience. While I have programmed in a variety of domains, I tend to focus on backend web development and systems/application development.
 
 The projects I currently work on are:
 * Corteva | Web-based agriculture technologies that combine weather data, satellite imagery, machine learning, and more to provide insights to farmers about their fields - insights like predicted crop yield, year-over-year precipitation and [GDU](https://cropwatch.unl.edu/growing-degree-units-and-corn-emergence) comparisons, etc.
