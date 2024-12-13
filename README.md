@@ -37,7 +37,7 @@ The projects I currently work on are:
 ## Get in Touch
 <p align="left">
     <a href="https://linkedin.com/in/joshua-phillip-holmes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-phillip-holmes" height="30" width="40" /></a>
-    <a href="https://www.jpholmes.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/503798/world.svg" alt="jpholmes.com" height="30" width="40" /></a>
+    <a href="https://www.holmes-software.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/503798/world.svg" alt="holmes-software.com" height="30" width="40" /></a>
     <a href="mailto:joshua.phillip.holmes@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/444836/mail-full.svg" alt="joshua.phillip.holmes@gmail.com" height="30" width="40" /></a>
 </p>
 
