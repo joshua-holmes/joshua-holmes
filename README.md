@@ -4,7 +4,7 @@ A passionate software developer, interested in delivering innovative, performant
 
 The projects I currently work on are:
 * Corteva | Web-based agriculture technologies that combine weather data, satellite imagery, machine learning, and more to provide insights to farmers about their fields - insights like predicted crop yield, year-over-year precipitation and [GDU](https://cropwatch.unl.edu/growing-degree-units-and-corn-emergence) comparisons, etc.
-* Mach | Modern open-source game engine written in Zig that is pushing [ECS](https://en.wikipedia.org/wiki/Entity_component_system) technology forward with the new [Mach Object System](https://machengine.org/docs/object/). I have primarily worked on native support with Linux display servers X11 and Wayland.
+* Mach | For building high-performance, truly cross-platform, robust & modular games, visualizations, and desktop/mobile GUI apps. I have primarily worked on native support with Linux display servers X11 and Wayland.
 * Unrevealed game | Turn-based, deck-building wizard game with real-time in-combat movement.
 
 ## Trophies
