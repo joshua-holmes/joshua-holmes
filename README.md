@@ -1,11 +1,11 @@
 # Hi I'm Josh! 👋
 
-A passionate software developer, interested in delivering innovative, performant software that's a joy to use for customers, whether that's another developer or an end user. As an engineer that is always learning new technologies, I have become a versatile programmer that learns new technologies quickly and makes educated decisions based on first-hand experience. While I have programmed in a variety of domains, I tend to focus on backend web development and systems/application development.
+A passionate software developer, interested in delivering performant software that's a joy for customers to use, whether that's another developer or an end user. As an engineer that is always learning new technologies, I have become a versatile programmer that learns new technologies quickly and makes educated decisions based on first-hand experience.
 
 The projects I currently work on are:
 * Corteva | Web-based agriculture technologies that combine weather data, satellite imagery, machine learning, and more to provide insights to farmers about their fields - insights like predicted crop yield, year-over-year precipitation and [GDU](https://cropwatch.unl.edu/growing-degree-units-and-corn-emergence) comparisons, etc.
+* Bevy | A refreshingly simple data-driven game engine built in Rust. I am working on designing/implementing a new way for Bevy to store single-threaded data and have it communicate with multi-threaded data in Bevy's ECS (Entities, Components, Systems) system.
 * Mach | For building high-performance, truly cross-platform, robust & modular games, visualizations, and desktop/mobile GUI apps. I have primarily worked on native support with Linux display servers X11 and Wayland.
-* Unrevealed game | Turn-based, deck-building wizard game with real-time in-combat movement.
 
 ## Trophies
 <p align="left">
@@ -14,8 +14,8 @@ The projects I currently work on are:
 
 ## Technologies
 <div align="left">
-    <a href="https://ziglang.org/" target="_blank" rel="noreferrer"> <img src="./images/zig.svg" alt="zig" width="40" height="40"/></a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="./images/rust.svg" alt="rust" width="40" height="40"/></a>
+    <a href="https://ziglang.org/" target="_blank" rel="noreferrer"> <img src="./images/zig.svg" alt="zig" width="40" height="40"/></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" height="40" width="40" /></a>
