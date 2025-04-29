@@ -1,6 +1,6 @@
 # Hi I'm Josh! 👋
 
-A passionate software developer, interested in delivering performant software that's a joy for customers to use, whether that's another developer or an end user. As an engineer that is always learning new technologies, I have become a versatile programmer that learns new technologies quickly and makes educated decisions based on first-hand experience.
+Highly experienced Senior Software Engineer with 3+ years experience in Rust, Zig, C/C++, Python and TypeScript. As an engineer that is always learning new technologies, I have become a versatile programmer that learns new technologies quickly and makes educated decisions based on first-hand experience.
 
 The projects I currently work on are:
 * Corteva | Web-based agriculture technologies that combine weather data, satellite imagery, machine learning, and more to provide insights to farmers about their fields - insights like predicted crop yield, year-over-year precipitation and [GDU](https://cropwatch.unl.edu/growing-degree-units-and-corn-emergence) comparisons, etc.
@@ -31,7 +31,6 @@ The projects I currently work on are:
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 </div>
 
 ## Get in Touch
